@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  mysql-db:
+    image: mysql:8.0
+    container_name: ox-mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: ox_db
+      MYSQL_ROOT_PASSWORD: password123
+    ports:
+      - '3306:3306'

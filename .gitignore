@@ -1,0 +1,15 @@
+# Dependencies
+**/node_modules/
+
+# Next.js output
+ox-frontend/.next/
+ox-frontend/out/
+
+# NestJS output
+ox-backend/dist/
+
+# Environment files
+**/.env*
+
+# OS files
+.DS_Store
