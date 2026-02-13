@@ -41,7 +41,7 @@ OX Game Project
 	3. การตั้งค่า Frontend
 		3.1 เข้าไปที่โฟลเดอร์ ox-frontend
 		3.2 รันคำสั่ง npm install เพื่อติดตั้ง Dependencies
-		3.3 สร้างไฟล์ .env.local โดยคัดลอกเนื้อหามาจากไฟล์ .env.local.example
+		3.3 สร้างไฟล์ .env.local
 		3.4 กำหนดค่าคอนฟิกในไฟล์ .env.local ให้ครบถ้วน ดังนี้:
 			- GOOGLE_CLIENT_ID: (ใส่ค่าที่ได้จาก Google Cloud Console)
 			- GOOGLE_CLIENT_SECRET: (ใส่ค่าที่ได้จาก Google Cloud Console)
