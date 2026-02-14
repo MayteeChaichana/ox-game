@@ -11,7 +11,7 @@ OX Game Project
 	1. Authentication: ยืนยันตัวตนผ่าน Google Login ตามมาตรฐาน OAuth 2.0 ก่อนเริ่มเล่นเกม
 	2. Game Mode: ระบบการเล่นแบบ Player vs Bot (AI) โดยผู้เล่นเป็น 'X' และ Bot เป็น 'O'
 	3. Bot AI: ระบบสุ่มเดินอัตโนมัติ (Random Move Logic) พร้อมระบบ Delay เพื่อความสมจริง
-	4. Leaderboard: ตารางจัดอันดับผู้เล่นที่คะแนนสูงสุด 10 อันดับแรก พร้อมระบบ Pagination
+	4. Leaderboard: ตารางจัดอันดับผู้เล่นที่คะแนนสูงสุด 5 อันดับแรก พร้อมระบบ Pagination
 
 ระบบคะแนน
 	1. ชนะบอท (Win): ได้รับ +1 คะแนน
